@@ -1,0 +1,17 @@
+.blood-pic{
+	
+	background:#2ecc71;
+
+}
+.heading h1{
+	color:#FFF;
+}
+.row{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
+}
+.col-md-12 {
+	width: 320px;
+}
